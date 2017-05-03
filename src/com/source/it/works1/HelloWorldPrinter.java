@@ -5,6 +5,7 @@ package com.source.it.works1;
  */
 public class HelloWorldPrinter {
     public static void main(String[] args) {
+        System.out.println("Oleja");
 
     }
 }
